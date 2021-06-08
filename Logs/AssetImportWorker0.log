@@ -15,11 +15,11 @@ C:/Users/Agustin/Desktop/Cosas Mias/Image/Image Game Design 2021/Diseño de Meca
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62985
+59317
 Successfully changed project path to: C:/Users/Agustin/Desktop/Cosas Mias/Image/Image Game Design 2021/Diseño de Mecanicas/Last-Hope
 C:/Users/Agustin/Desktop/Cosas Mias/Image/Image Game Design 2021/Diseño de Mecanicas/Last-Hope
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 92.70 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 110.58 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.7f1 (c53830e277f1)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/Resources/UnitySubsystems
@@ -35,601 +35,424 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56612
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56964
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004552 seconds.
+Registered in 0.004393 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 84.57 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 113.95 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.768 seconds
+- Completed reload, in  2.208 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002039 seconds.
+Registered in 0.005678 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 93.72 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 98.98 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.640 seconds
+- Completed reload, in  1.982 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 1.29 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 2.05 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2271 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 109.0 MB.
-System memory in use after: 109.1 MB.
+System memory in use before: 109.3 MB.
+System memory in use after: 109.3 MB.
 
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2718.
-Total: 4.069400 ms (FindLiveObjects: 0.775600 ms CreateObjectMapping: 0.199300 ms MarkObjects: 2.880800 ms  DeleteObjects: 0.210700 ms)
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2720.
+Total: 4.707700 ms (FindLiveObjects: 0.439200 ms CreateObjectMapping: 0.220900 ms MarkObjects: 3.772200 ms  DeleteObjects: 0.271000 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/2DGamekit/Last Hope Assets/Code/NewBullet.cs
-  artifactKey: Guid(33c0e0d0d5155574aa46fcc880e73bf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Last Hope Assets/Code/NewBullet.cs using Guid(33c0e0d0d5155574aa46fcc880e73bf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75cbbf497e5dca51e3c6c93ed892cbec') in 0.115501 seconds
-  Import took 0.124685 seconds .
+  path: Assets/2DGamekit/Last Hope Assets/Art/d4rj3uj-f0fb05cc-32d4-4f49-a3b9-49e09ee029e8.png
+  artifactKey: Guid(963dc6af7c3dc8943bd09bdd184b4181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Last Hope Assets/Art/d4rj3uj-f0fb05cc-32d4-4f49-a3b9-49e09ee029e8.png using Guid(963dc6af7c3dc8943bd09bdd184b4181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0434dc9ab9aa45e540277d84a6347e0') in 0.273681 seconds
+  Import took 0.283776 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.015029 seconds.
+Registered in 0.002620 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.29 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.04 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.001 seconds
+- Completed reload, in  1.607 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.86 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 2.30 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2218 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 105.4 MB.
-System memory in use after: 105.5 MB.
+System memory in use before: 108.6 MB.
+System memory in use after: 108.7 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2722.
-Total: 3.107500 ms (FindLiveObjects: 0.322400 ms CreateObjectMapping: 0.093200 ms MarkObjects: 2.538500 ms  DeleteObjects: 0.151400 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2730.
+Total: 4.564400 ms (FindLiveObjects: 0.623000 ms CreateObjectMapping: 0.124700 ms MarkObjects: 3.609500 ms  DeleteObjects: 0.203300 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002766 seconds.
+Registered in 0.002446 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.15 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.67 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.643 seconds
+- Completed reload, in  1.751 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2218 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 105.4 MB.
-System memory in use after: 105.5 MB.
+System memory in use before: 108.7 MB.
+System memory in use after: 108.8 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2726.
-Total: 5.049800 ms (FindLiveObjects: 0.420100 ms CreateObjectMapping: 0.192900 ms MarkObjects: 4.060200 ms  DeleteObjects: 0.372000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 925.125746 seconds.
-  path: Assets/2DGamekit/Prefabs/Ellen.prefab
-  artifactKey: Guid(73360cdb4e1e7ed4897690f9d57fd0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Ellen.prefab using Guid(73360cdb4e1e7ed4897690f9d57fd0eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c1e277875c491763ca04ee9728a0273') in 0.353533 seconds
-  Import took 0.366497 seconds .
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2734.
+Total: 5.413100 ms (FindLiveObjects: 0.345300 ms CreateObjectMapping: 0.087800 ms MarkObjects: 4.705500 ms  DeleteObjects: 0.271900 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000843 seconds.
-  path: Assets/2DGamekit/Prefabs/MainCamera.prefab
-  artifactKey: Guid(bb0018ce3a8caa643b44f8487c34bd25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/MainCamera.prefab using Guid(bb0018ce3a8caa643b44f8487c34bd25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '797d7643d40b7423f67a26c12b062c20') in 0.034599 seconds
-  Import took 0.044982 seconds .
+  Time since last request: 343.080385 seconds.
+  path: Assets/2DGamekit/Art/Materials/VFX/Environment/ParticleSmoke.mat
+  artifactKey: Guid(30416b542ac1dd049b116f11a8b5c8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Materials/VFX/Environment/ParticleSmoke.mat using Guid(30416b542ac1dd049b116f11a8b5c8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0d7a3aa760e337efab53d26dbb16268') in 0.177185 seconds
+  Import took 0.189030 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.237199 seconds.
-  path: Assets/2DGamekit/Prefabs/Enemies
-  artifactKey: Guid(15a675dabe8cd6c4bb0ed6ad32cd6771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Enemies using Guid(15a675dabe8cd6c4bb0ed6ad32cd6771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0621ea9cc2e0a615ca0e5e6e4fa2ae97') in 0.009757 seconds
-  Import took 0.021010 seconds .
+  Time since last request: 0.521490 seconds.
+  path: Assets/2DGamekit/Art/Materials/VFX/Environment/ParticleAcidBubbles.mat
+  artifactKey: Guid(16194fae16baf814d95567a14a521d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Materials/VFX/Environment/ParticleAcidBubbles.mat using Guid(16194fae16baf814d95567a14a521d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22b2e2f4236127d6175cc9aa5f5aaa91') in 0.033553 seconds
+  Import took 0.045364 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.808398 seconds.
-  path: Assets/2DGamekit/Prefabs/Enemies/Chomper.prefab
-  artifactKey: Guid(9a2f32836e0e10248b425c273622a735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Enemies/Chomper.prefab using Guid(9a2f32836e0e10248b425c273622a735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b40981c91d0797e5da70b06f4dd0ed1d') in 0.046927 seconds
-  Import took 0.056721 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000650 seconds.
-  path: Assets/2DGamekit/Prefabs/Enemies/Spitter.prefab
-  artifactKey: Guid(6fc2e0a5f8f54a7499632d26ee58a344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Enemies/Spitter.prefab using Guid(6fc2e0a5f8f54a7499632d26ee58a344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f642be8d902359a58f422b3acb9ac82') in 0.062780 seconds
-  Import took 0.071564 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000771 seconds.
-  path: Assets/2DGamekit/Prefabs/Enemies/EnemySpawner.prefab
-  artifactKey: Guid(5ae094758896c0b45b352d4b01916822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Enemies/EnemySpawner.prefab using Guid(5ae094758896c0b45b352d4b01916822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20b4f0bd1fa72e75b2a2b25b0f9a84ce') in 0.020962 seconds
-  Import took 0.029823 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 23.928084 seconds.
-  path: Assets/2DGamekit/Prefabs/Audio/BackgroundMusicPlayer.prefab
-  artifactKey: Guid(9c48d4101c920ef47a787da13f097d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Audio/BackgroundMusicPlayer.prefab using Guid(9c48d4101c920ef47a787da13f097d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cda55d15ffea0b99b015fbd5c46ee28') in 0.023198 seconds
-  Import took 0.037311 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.595449 seconds.
-  path: Assets/2DGamekit/Prefabs/Environment/Acid.prefab
-  artifactKey: Guid(3aa03ae1689a947448e3ea2b622614f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Environment/Acid.prefab using Guid(3aa03ae1689a947448e3ea2b622614f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9897f653f9fb49dbdf424a37cde7e2a') in 0.025313 seconds
-  Import took 0.034779 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000501 seconds.
-  path: Assets/2DGamekit/Prefabs/Environment/Spikes.prefab
-  artifactKey: Guid(4ff9f7a332b4ae44bb62aaee6eacc033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Environment/Spikes.prefab using Guid(4ff9f7a332b4ae44bb62aaee6eacc033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b429759140a0a2cfd118ee54d60729f') in 0.170490 seconds
-  Import took 0.178529 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.382836 seconds.
-  path: Assets/2DGamekit/Prefabs/Interactables/Bridge.prefab
-  artifactKey: Guid(a895c7cedf6851f4380f2a35df8d219a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Interactables/Bridge.prefab using Guid(a895c7cedf6851f4380f2a35df8d219a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bf9ddfe0349405435afdfc1c0cc8104') in 0.041102 seconds
-  Import took 0.055932 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001079 seconds.
-  path: Assets/2DGamekit/Prefabs/Interactables/PassThroughPlatform.prefab
-  artifactKey: Guid(e89d55dfb0b7bab4dac674275ef32613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Interactables/PassThroughPlatform.prefab using Guid(e89d55dfb0b7bab4dac674275ef32613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a1f919624c7421cc58c0f19f1322184') in 0.029822 seconds
-  Import took 0.038795 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000729 seconds.
-  path: Assets/2DGamekit/Prefabs/Interactables/MovingPlatformlong.prefab
-  artifactKey: Guid(75c2b6a66ee2dfe4b9f818176a33f456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Interactables/MovingPlatformlong.prefab using Guid(75c2b6a66ee2dfe4b9f818176a33f456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e566cde0194be876c1af9a8201fd20c') in 0.107462 seconds
-  Import took 0.130243 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001508 seconds.
-  path: Assets/2DGamekit/Prefabs/Interactables/Key.prefab
-  artifactKey: Guid(93f15056a62b79346aafa55805de2b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Interactables/Key.prefab using Guid(93f15056a62b79346aafa55805de2b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec3f6a7da7212e5a4e2327d20614c923') in 0.154612 seconds
-  Import took 0.171252 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000683 seconds.
-  path: Assets/2DGamekit/Prefabs/Interactables/InfoPost.prefab
-  artifactKey: Guid(6bc0b2bb61623f94aa335ee8a769a8f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Interactables/InfoPost.prefab using Guid(6bc0b2bb61623f94aa335ee8a769a8f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f5fd13ef1595cf1f40ee48c8c7348b3') in 0.054153 seconds
-  Import took 0.063692 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000616 seconds.
-  path: Assets/2DGamekit/Prefabs/Interactables/Door.prefab
-  artifactKey: Guid(d3dff3eb072b76f4daa75549e62b7bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Interactables/Door.prefab using Guid(d3dff3eb072b76f4daa75549e62b7bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2329b1115a44d0eb3053fd888799deba') in 0.151375 seconds
-  Import took 0.159871 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000578 seconds.
-  path: Assets/2DGamekit/Prefabs/Interactables/MovingPlatform.prefab
-  artifactKey: Guid(f9663778c0da693408f8cf4c13bc051a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Interactables/MovingPlatform.prefab using Guid(f9663778c0da693408f8cf4c13bc051a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afd595ceb620f7a274d66692506aecc7') in 0.036984 seconds
-  Import took 0.045801 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000696 seconds.
-  path: Assets/2DGamekit/Prefabs/Interactables/PressurePad.prefab
-  artifactKey: Guid(daebb73bab52a3b4d8eab37c26a8a62f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Interactables/PressurePad.prefab using Guid(daebb73bab52a3b4d8eab37c26a8a62f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f973654831170e1b1051c4f4f78c42ca') in 0.029177 seconds
-  Import took 0.038578 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000732 seconds.
-  path: Assets/2DGamekit/Prefabs/Interactables/DestructableColumn.prefab
-  artifactKey: Guid(c57359a20b483084f9310f1d0b46f64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Interactables/DestructableColumn.prefab using Guid(c57359a20b483084f9310f1d0b46f64a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '169f0c039c4179f811b5513c7b7b7e17') in 0.412412 seconds
-  Import took 0.422700 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000599 seconds.
-  path: Assets/2DGamekit/Prefabs/Interactables/HealthPickup.prefab
-  artifactKey: Guid(6ce14eb040a43734b9fb27d9a62d91ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Interactables/HealthPickup.prefab using Guid(6ce14eb040a43734b9fb27d9a62d91ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49203c68b9c50e7adaa59e38cf8546f5') in 0.052989 seconds
-  Import took 0.063814 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000718 seconds.
-  path: Assets/2DGamekit/Prefabs/Interactables/DestructableWall.prefab
-  artifactKey: Guid(34e51d4f11580144b99436db7c78b5dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Interactables/DestructableWall.prefab using Guid(34e51d4f11580144b99436db7c78b5dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40676092708e2679cac5057c99e802dc') in 0.042321 seconds
-  Import took 0.054971 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000749 seconds.
-  path: Assets/2DGamekit/Prefabs/Interactables/PushableBox.prefab
-  artifactKey: Guid(afbffe7f4d780a848bb3211bd9c32278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Interactables/PushableBox.prefab using Guid(afbffe7f4d780a848bb3211bd9c32278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b89c517dd5d4acd3c9549b7fad7ac95c') in 0.031622 seconds
-  Import took 0.040740 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000558 seconds.
-  path: Assets/2DGamekit/Prefabs/Interactables/Teleporter.prefab
-  artifactKey: Guid(ea040a76895f65745899f41e3dff6aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Interactables/Teleporter.prefab using Guid(ea040a76895f65745899f41e3dff6aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0e907553c3d7650c4e92f50aee372a3') in 0.043511 seconds
-  Import took 0.052124 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000603 seconds.
-  path: Assets/2DGamekit/Prefabs/Interactables/SingleUseSwitch.prefab
-  artifactKey: Guid(7da6a32167f5e2948a425959d1ea2014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Interactables/SingleUseSwitch.prefab using Guid(7da6a32167f5e2948a425959d1ea2014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8319fa0b9f0f4880e9003467bf637706') in 0.039875 seconds
-  Import took 0.049326 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000634 seconds.
-  path: Assets/2DGamekit/Prefabs/Interactables/ReusableSwitch.prefab
-  artifactKey: Guid(40cc899f594768746b6d70b3f2530c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Interactables/ReusableSwitch.prefab using Guid(40cc899f594768746b6d70b3f2530c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44fcfb4710b1c264a7dd503765f3eb51') in 0.023116 seconds
-  Import took 0.032067 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000610 seconds.
-  path: Assets/2DGamekit/Prefabs/Interactables/PassThroughPlatformLong.prefab
-  artifactKey: Guid(599bf135fc0648043bfa32dcd1e26d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Interactables/PassThroughPlatformLong.prefab using Guid(599bf135fc0648043bfa32dcd1e26d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '809c2a9a9106d897db182d484fc100d9') in 0.032293 seconds
-  Import took 0.040925 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.792267 seconds.
-  path: Assets/2DGamekit/Prefabs/UIPrefabs/DialogueCanvas.prefab
-  artifactKey: Guid(114c5f41fd4099445a42c1d9bd01f222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/UIPrefabs/DialogueCanvas.prefab using Guid(114c5f41fd4099445a42c1d9bd01f222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b3e545ee82a4e7dbbce166ce1c770b0') in 0.104668 seconds
-  Import took 0.112869 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000697 seconds.
-  path: Assets/2DGamekit/Prefabs/UIPrefabs/KeyIcon.prefab
-  artifactKey: Guid(87b9fdd795c49ed45b705002b45185f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/UIPrefabs/KeyIcon.prefab using Guid(87b9fdd795c49ed45b705002b45185f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fbeed5691b52c3b291b7862535ae00d') in 0.009409 seconds
-  Import took 0.017246 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000694 seconds.
-  path: Assets/2DGamekit/Prefabs/UIPrefabs/UICloseButton.prefab
-  artifactKey: Guid(1fb5ab3aabaef0c43ae0f9bc9882feb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/UIPrefabs/UICloseButton.prefab using Guid(1fb5ab3aabaef0c43ae0f9bc9882feb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d3ed5bcef839d32d2b1107dcd0cf43b') in 0.067462 seconds
-  Import took 0.075852 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000621 seconds.
-  path: Assets/2DGamekit/Prefabs/UIPrefabs/KeyCanvas.prefab
-  artifactKey: Guid(683597be51f41bb4cbba59294cae8b30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/UIPrefabs/KeyCanvas.prefab using Guid(683597be51f41bb4cbba59294cae8b30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bca573755dcb0da1a603f439f6e1036a') in 0.015553 seconds
-  Import took 0.024532 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000792 seconds.
-  path: Assets/2DGamekit/Prefabs/UIPrefabs/LoadingCanvas.prefab
-  artifactKey: Guid(83d0619896c6b844c852388c2502727f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/UIPrefabs/LoadingCanvas.prefab using Guid(83d0619896c6b844c852388c2502727f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3690c46557a7b2977ffde3e285c43595') in 0.015927 seconds
-  Import took 0.027075 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000715 seconds.
-  path: Assets/2DGamekit/Prefabs/UIPrefabs/OptionsCanvas.prefab
-  artifactKey: Guid(28fdaedf686cb394ba208418f1942254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/UIPrefabs/OptionsCanvas.prefab using Guid(28fdaedf686cb394ba208418f1942254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6120b332354a5d717f69a5e52eb4104') in 0.080635 seconds
-  Import took 0.090285 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000608 seconds.
-  path: Assets/2DGamekit/Prefabs/UIPrefabs/UICanvas.prefab
-  artifactKey: Guid(eb72f36523dcf684f9ca37da45adfa76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/UIPrefabs/UICanvas.prefab using Guid(eb72f36523dcf684f9ca37da45adfa76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e880bb21962ea2298cec52bc698fe4de') in 0.036554 seconds
-  Import took 0.045295 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001109 seconds.
-  path: Assets/2DGamekit/Prefabs/UIPrefabs/PanelCanvas.prefab
-  artifactKey: Guid(2208ab824ba66ab4eaafed9162a13177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/UIPrefabs/PanelCanvas.prefab using Guid(2208ab824ba66ab4eaafed9162a13177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e84decf6e89e17a11af238d8a0ae732') in 0.032277 seconds
-  Import took 0.043815 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000539 seconds.
-  path: Assets/2DGamekit/Prefabs/UIPrefabs/HealthCanvas.prefab
-  artifactKey: Guid(2d2745d2a8668e644a921a4848c9bc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/UIPrefabs/HealthCanvas.prefab using Guid(2d2745d2a8668e644a921a4848c9bc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f90ba66b7955706d94e1df07f45593e5') in 0.013052 seconds
-  Import took 0.020860 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001015 seconds.
-  path: Assets/2DGamekit/Prefabs/UIPrefabs/HealthIcon.prefab
-  artifactKey: Guid(5e2d966f076c6144ba1b3f112e14ede1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/UIPrefabs/HealthIcon.prefab using Guid(5e2d966f076c6144ba1b3f112e14ede1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dc855e323fd4b3d83ba64bf03600a30') in 0.012194 seconds
-  Import took 0.020406 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000612 seconds.
-  path: Assets/2DGamekit/Prefabs/UIPrefabs/UIButton.prefab
-  artifactKey: Guid(474f38b7b50d08b45b4c8cda7b98201b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/UIPrefabs/UIButton.prefab using Guid(474f38b7b50d08b45b4c8cda7b98201b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b57d706a75c1a42afd2fab88af105939') in 0.031090 seconds
-  Import took 0.038806 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000831 seconds.
-  path: Assets/2DGamekit/Prefabs/UIPrefabs/GameOverCanvas.prefab
-  artifactKey: Guid(2cb597c059c0637489d7a3309e26cb52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/UIPrefabs/GameOverCanvas.prefab using Guid(2cb597c059c0637489d7a3309e26cb52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7289db69d7053141f0d71a7bfc0ccaa6') in 0.016549 seconds
-  Import took 0.026010 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.638181 seconds.
-  path: Assets/2DGamekit/Prefabs/Utilities/Localizer.prefab
-  artifactKey: Guid(c4265b110bb2c484e9f7130b2e605218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Utilities/Localizer.prefab using Guid(c4265b110bb2c484e9f7130b2e605218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e56a0f7dd26b2dd0e6306c27c0306bb') in 0.018774 seconds
-  Import took 0.087607 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.029995 seconds.
-  path: Assets/2DGamekit/Prefabs/Utilities/ObjectPositionResetter.prefab
-  artifactKey: Guid(e6a7390a68a87cc44bf2d5eae1fc46d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Utilities/ObjectPositionResetter.prefab using Guid(e6a7390a68a87cc44bf2d5eae1fc46d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7858df852a6108e4a138d9d413c645f') in 0.009862 seconds
-  Import took 0.017650 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000566 seconds.
-  path: Assets/2DGamekit/Prefabs/Utilities/SpitterSpitPool.prefab
-  artifactKey: Guid(668940f422f1b1c458f0b6b36ba7de9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Utilities/SpitterSpitPool.prefab using Guid(668940f422f1b1c458f0b6b36ba7de9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '416c0f7bbb1ec1cb2eb2d8a6bc2a9252') in 0.011575 seconds
-  Import took 0.020486 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001296 seconds.
-  path: Assets/2DGamekit/Prefabs/Utilities/PhysicsHelper.prefab
-  artifactKey: Guid(5e97833b7c43abc418eeee08d291ea3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Utilities/PhysicsHelper.prefab using Guid(5e97833b7c43abc418eeee08d291ea3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5106323c8fa8184be08a4efb3ab9d228') in 0.013013 seconds
-  Import took 0.024184 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000750 seconds.
-  path: Assets/2DGamekit/Prefabs/Utilities/SplashSoundPlayer.prefab
-  artifactKey: Guid(a7584c3225fcd2a4191583462325ef39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Utilities/SplashSoundPlayer.prefab using Guid(a7584c3225fcd2a4191583462325ef39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b84d27dba71074f83ec571f05cd949d') in 0.011277 seconds
-  Import took 0.019355 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000624 seconds.
-  path: Assets/2DGamekit/Prefabs/Utilities/VFXController.prefab
-  artifactKey: Guid(db30b6a69797544c8a2f8777aa55668f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Prefabs/Utilities/VFXController.prefab using Guid(db30b6a69797544c8a2f8777aa55668f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3491325985c6a71e9f595e487af0f0d') in 0.097820 seconds
-  Import took 0.107152 seconds .
+  Time since last request: 0.006499 seconds.
+  path: Assets/2DGamekit/Art/Materials/VFX/Environment/ParticleAcidBubbles.mat
+  artifactKey: Guid(16194fae16baf814d95567a14a521d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Materials/VFX/Environment/ParticleAcidBubbles.mat using Guid(16194fae16baf814d95567a14a521d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22b2e2f4236127d6175cc9aa5f5aaa91') in 0.021487 seconds
+  Import took 0.033311 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001899 seconds.
+Registered in 0.002025 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.06 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.537 seconds
+- Completed reload, in  1.688 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.93 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2218 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 109.1 MB.
-System memory in use after: 109.2 MB.
+System memory in use before: 108.9 MB.
+System memory in use after: 109.0 MB.
 
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2742.
-Total: 3.938000 ms (FindLiveObjects: 0.799200 ms CreateObjectMapping: 0.217100 ms MarkObjects: 2.714300 ms  DeleteObjects: 0.204400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.011485 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.963 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2218 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 109.1 MB.
-System memory in use after: 109.2 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2746.
-Total: 3.813600 ms (FindLiveObjects: 0.331700 ms CreateObjectMapping: 0.071200 ms MarkObjects: 3.249200 ms  DeleteObjects: 0.160200 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2776.
+Total: 5.235000 ms (FindLiveObjects: 0.333600 ms CreateObjectMapping: 0.122800 ms MarkObjects: 4.617100 ms  DeleteObjects: 0.158800 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2565.647955 seconds.
-  path: Assets/2DGamekit/Last Hope Assets/Code/EnemyHealth.cs
-  artifactKey: Guid(4cabbeae1304a0644b7adb1196961d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Last Hope Assets/Code/EnemyHealth.cs using Guid(4cabbeae1304a0644b7adb1196961d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3088dbc7b21bc6658d2618bd162074a9') in 0.016411 seconds
-  Import took 0.092825 seconds .
+  Time since last request: 83.279374 seconds.
+  path: Assets/2DGamekit/Last Hope Assets/Enemigos
+  artifactKey: Guid(6df74ef9923d8d045b0b5de19912324d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Last Hope Assets/Enemigos using Guid(6df74ef9923d8d045b0b5de19912324d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b2cfa153461ef47a8bcf1e183bc67e4') in 0.011594 seconds
+  Import took 0.019965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.633375 seconds.
+  path: Assets/2DGamekit/Last Hope Assets/Enemigos/d4rj3uj-f0fb05cc-32d4-4f49-a3b9-49e09ee029e8.prefab
+  artifactKey: Guid(2a3ba933955cd004cb98a32d90801fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Last Hope Assets/Enemigos/d4rj3uj-f0fb05cc-32d4-4f49-a3b9-49e09ee029e8.prefab using Guid(2a3ba933955cd004cb98a32d90801fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7e6139416a2781debe15766c749f443') in 0.140816 seconds
+  Import took 0.152804 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003083 seconds.
+Registered in 0.003478 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.57 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.31 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.048 seconds
+- Completed reload, in  1.938 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.45 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2218 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 109.0 MB.
 System memory in use after: 109.1 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2750.
-Total: 4.672500 ms (FindLiveObjects: 0.505300 ms CreateObjectMapping: 0.176400 ms MarkObjects: 3.785200 ms  DeleteObjects: 0.203200 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 196.734766 seconds.
-  path: Assets/2DGamekit/Last Hope Assets/Code/NewBullet.cs
-  artifactKey: Guid(33c0e0d0d5155574aa46fcc880e73bf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Last Hope Assets/Code/NewBullet.cs using Guid(33c0e0d0d5155574aa46fcc880e73bf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0201d064dad7769cb0e87c2d4a64de3a') in 0.013026 seconds
-  Import took 0.022272 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.018079 seconds.
-  path: Assets/2DGamekit/Last Hope Assets/Code/NewBullet.cs
-  artifactKey: Guid(33c0e0d0d5155574aa46fcc880e73bf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Last Hope Assets/Code/NewBullet.cs using Guid(33c0e0d0d5155574aa46fcc880e73bf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0201d064dad7769cb0e87c2d4a64de3a') in 0.006952 seconds
-  Import took 0.017482 seconds .
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2781.
+Total: 3.711900 ms (FindLiveObjects: 0.461300 ms CreateObjectMapping: 0.199700 ms MarkObjects: 2.868500 ms  DeleteObjects: 0.179100 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002448 seconds.
+Registered in 0.002104 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.68 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.90 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.845 seconds
+- Completed reload, in  1.696 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.21 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2218 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 109.1 MB.
-System memory in use after: 109.2 MB.
+System memory in use before: 108.9 MB.
+System memory in use after: 109.0 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2754.
-Total: 5.250400 ms (FindLiveObjects: 0.720600 ms CreateObjectMapping: 0.304800 ms MarkObjects: 4.024800 ms  DeleteObjects: 0.197000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 53.114933 seconds.
-  path: Assets/2DGamekit/Last Hope Assets/Code/NewBullet.cs
-  artifactKey: Guid(33c0e0d0d5155574aa46fcc880e73bf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Last Hope Assets/Code/NewBullet.cs using Guid(33c0e0d0d5155574aa46fcc880e73bf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91185613532ab7b56a7db8dce9eb89f6') in 0.012075 seconds
-  Import took 0.021525 seconds .
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2785.
+Total: 3.843900 ms (FindLiveObjects: 0.332300 ms CreateObjectMapping: 0.115700 ms MarkObjects: 3.188200 ms  DeleteObjects: 0.206000 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.385541 seconds.
-  path: Assets/2DGamekit/Last Hope Assets/Code/NewBullet.cs
-  artifactKey: Guid(33c0e0d0d5155574aa46fcc880e73bf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Last Hope Assets/Code/NewBullet.cs using Guid(33c0e0d0d5155574aa46fcc880e73bf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91185613532ab7b56a7db8dce9eb89f6') in 0.017739 seconds
-  Import took 0.027674 seconds .
+  Time since last request: 277.763205 seconds.
+  path: Assets/2DGamekit/Last Hope Assets/Art/5168a37d-3d65-4324-86ba-9e37075c9579.jpg
+  artifactKey: Guid(7393c9a280b0d294bb84d69d9a773307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Last Hope Assets/Art/5168a37d-3d65-4324-86ba-9e37075c9579.jpg using Guid(7393c9a280b0d294bb84d69d9a773307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02230da90cbc29948899f2b08fe56df2') in 0.147112 seconds
+  Import took 0.158672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.813907 seconds.
+  path: Assets/2DGamekit/Last Hope Assets/Art/WhatsApp Image 2021-06-08 at 17.45.50.jpeg
+  artifactKey: Guid(e4c278c1a640e4c45a1a84cedcfd1c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Last Hope Assets/Art/WhatsApp Image 2021-06-08 at 17.45.50.jpeg using Guid(e4c278c1a640e4c45a1a84cedcfd1c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fcc83fe67c1da1f08db71b13fb62b5d') in 0.047316 seconds
+  Import took 0.058146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010040 seconds.
+  path: Assets/2DGamekit/Last Hope Assets/Art/WhatsApp Image 2021-06-08 at 17.45.50.jpeg
+  artifactKey: Guid(e4c278c1a640e4c45a1a84cedcfd1c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Last Hope Assets/Art/WhatsApp Image 2021-06-08 at 17.45.50.jpeg using Guid(e4c278c1a640e4c45a1a84cedcfd1c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fcc83fe67c1da1f08db71b13fb62b5d') in 0.027956 seconds
+  Import took 0.039975 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002375 seconds.
+Registered in 0.002291 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.95 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.644 seconds
+- Completed reload, in  1.424 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.00 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2218 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 109.1 MB.
-System memory in use after: 109.2 MB.
+System memory in use before: 109.0 MB.
+System memory in use after: 109.1 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2758.
-Total: 4.634300 ms (FindLiveObjects: 0.466500 ms CreateObjectMapping: 0.197600 ms MarkObjects: 3.694500 ms  DeleteObjects: 0.272900 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2794.
+Total: 3.096700 ms (FindLiveObjects: 0.321400 ms CreateObjectMapping: 0.083800 ms MarkObjects: 2.518100 ms  DeleteObjects: 0.172100 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 466.994636 seconds.
-  path: Assets/2DGamekit/Last Hope Assets/Art/anotter_space.png
-  artifactKey: Guid(472c31902b5c5ab42b169248d07a01a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Last Hope Assets/Art/anotter_space.png using Guid(472c31902b5c5ab42b169248d07a01a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d8e728ae6adcaeddcffbad811aebe04') in 0.256512 seconds
-  Import took 0.271274 seconds .
+  Time since last request: 3815.884844 seconds.
+  path: Assets/2DGamekit/Art
+  artifactKey: Guid(a849a12c93bea034a87ff6f9a436b598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art using Guid(a849a12c93bea034a87ff6f9a436b598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aec5addeb635894758aa779bff552c6e') in 0.013302 seconds
+  Import took 0.023688 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 355.092877 seconds.
+  path: Assets/2DGamekit/Last Hope/Level1.unity
+  artifactKey: Guid(421fab1741c7d8f44a053ccbd865bfdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Last Hope/Level1.unity using Guid(421fab1741c7d8f44a053ccbd865bfdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5cd2069ae8e8611a85f42ecb6956fec') in 0.022087 seconds
+  Import took 0.031333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.184008 seconds.
+  path: Assets/2DGamekit/Art/Sprites/VFX/Environment/AcidBubbles.png
+  artifactKey: Guid(86d5ee14dfb5a6342ad6aae1133f4561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/VFX/Environment/AcidBubbles.png using Guid(86d5ee14dfb5a6342ad6aae1133f4561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a941cb0785f7ae550b4fcdf65d4752b') in 0.139158 seconds
+  Import took 0.147176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004691 seconds.
+  path: Assets/2DGamekit/Art/Sprites/VFX/Environment/AcidBubbles.png
+  artifactKey: Guid(86d5ee14dfb5a6342ad6aae1133f4561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/VFX/Environment/AcidBubbles.png using Guid(86d5ee14dfb5a6342ad6aae1133f4561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a941cb0785f7ae550b4fcdf65d4752b') in 0.077522 seconds
+  Import took 0.085184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.537322 seconds.
+  path: Assets/2DGamekit/Art/Sprites/Environment/Alcove.png
+  artifactKey: Guid(aac9a30c9c349534990e2d84f22e7b28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/Environment/Alcove.png using Guid(aac9a30c9c349534990e2d84f22e7b28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '292f86fa014f96ff127ce1e1af3b671c') in 0.022680 seconds
+  Import took 0.030277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.352770 seconds.
+  path: Assets/2DGamekit/Art/Sprites/Environment/AlienBlock01.png
+  artifactKey: Guid(27d3b077540489548895b070354e048e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/Environment/AlienBlock01.png using Guid(27d3b077540489548895b070354e048e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c24ab54b927a35c1ca4d59f9c4313df') in 0.023704 seconds
+  Import took 0.032484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000672 seconds.
+  path: Assets/2DGamekit/Art/Sprites/Environment/AlienBlock05.png
+  artifactKey: Guid(1bdb3ae754025874c8232697a4529489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/Environment/AlienBlock05.png using Guid(1bdb3ae754025874c8232697a4529489) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2c39146db3a38ca04f9f60f31c3fd68') in 0.024034 seconds
+  Import took 0.031488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000611 seconds.
+  path: Assets/2DGamekit/Art/Sprites/Environment/AlienBlock03.png
+  artifactKey: Guid(ca5192f854a90464882497f5fd74cd6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/Environment/AlienBlock03.png using Guid(ca5192f854a90464882497f5fd74cd6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2219a7a604c9293af1a639a660990e0f') in 0.028756 seconds
+  Import took 0.037713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000647 seconds.
+  path: Assets/2DGamekit/Art/Sprites/Environment/AlienBlock06.png
+  artifactKey: Guid(c0db65020163c56489c1a4801f97a149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/Environment/AlienBlock06.png using Guid(c0db65020163c56489c1a4801f97a149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e9a470c46a010467dc4b63e90abf289') in 0.022700 seconds
+  Import took 0.031197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000740 seconds.
+  path: Assets/2DGamekit/Art/Sprites/Environment/AlienBlock04.png
+  artifactKey: Guid(f2fe0307e2e9fcd47a01feaa7fc499ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/Environment/AlienBlock04.png using Guid(f2fe0307e2e9fcd47a01feaa7fc499ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37349a0af57c35e68d8ae635cc2c6794') in 0.027339 seconds
+  Import took 0.035705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000646 seconds.
+  path: Assets/2DGamekit/Art/Sprites/Environment/AlienBlock02.png
+  artifactKey: Guid(b4f26af56d17ca74da9d1a08adffb885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/Environment/AlienBlock02.png using Guid(b4f26af56d17ca74da9d1a08adffb885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcf9122ea2dee596a7827a7bff8d175b') in 0.023405 seconds
+  Import took 0.031295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000556 seconds.
+  path: Assets/2DGamekit/Art/Sprites/Environment/AlienFlora.png
+  artifactKey: Guid(6e43932fcf79bb44881725c7dba2dfde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/Environment/AlienFlora.png using Guid(6e43932fcf79bb44881725c7dba2dfde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '488f459efa1658f7c4f653b08a108e2e') in 0.205071 seconds
+  Import took 0.213167 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002412 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.558 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2218 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 109.2 MB.
+System memory in use after: 109.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2881.
+Total: 4.024400 ms (FindLiveObjects: 0.517200 ms CreateObjectMapping: 0.140500 ms MarkObjects: 3.191600 ms  DeleteObjects: 0.172000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.345056 seconds.
+  path: Assets/2DGamekit/Last Hope Assets/Art/d4rj3uj-f0fb05cc-32d4-4f49-a3b9-49e09ee029e8.png
+  artifactKey: Guid(963dc6af7c3dc8943bd09bdd184b4181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Last Hope Assets/Art/d4rj3uj-f0fb05cc-32d4-4f49-a3b9-49e09ee029e8.png using Guid(963dc6af7c3dc8943bd09bdd184b4181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd74249ad680d83e7dcd3995e62efe432') in 0.093275 seconds
+  Import took 0.102553 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002446 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.596 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2218 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 109.2 MB.
+System memory in use after: 109.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2886.
+Total: 4.144900 ms (FindLiveObjects: 0.444700 ms CreateObjectMapping: 0.107600 ms MarkObjects: 3.404600 ms  DeleteObjects: 0.185600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004490 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.558 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2218 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 109.2 MB.
+System memory in use after: 109.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2890.
+Total: 3.326500 ms (FindLiveObjects: 0.359900 ms CreateObjectMapping: 0.087300 ms MarkObjects: 2.717700 ms  DeleteObjects: 0.159500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
