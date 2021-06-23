@@ -42,9 +42,12 @@ EditorBuildSettings:
     path: 
     guid: 7daecd0dbe1f00548ac8b33ee6e234d0
   - enabled: 1
-    path: Assets/Escena1.unity
+    path: 
     guid: 0e222c0daed93914fb6f9348c8e104b8
   - enabled: 1
     path: Assets/Nivel1.unity
     guid: ca20da49fe41e2045a98eb32ea3eafb6
+  - enabled: 1
+    path: Assets/Nivel5.unity
+    guid: a62beda2b0a2cd9428b9d9874ebba7c3
   m_configObjects: {}
