@@ -45,9 +45,12 @@ EditorBuildSettings:
     path: 
     guid: 0e222c0daed93914fb6f9348c8e104b8
   - enabled: 1
-    path: Assets/Nivel1.unity
+    path: Assets/2DGamekit/Last Hope/Nivel1.unity
     guid: ca20da49fe41e2045a98eb32ea3eafb6
   - enabled: 1
-    path: Assets/Nivel5.unity
+    path: Assets/2DGamekit/Last Hope/Nivel5.unity
     guid: a62beda2b0a2cd9428b9d9874ebba7c3
+  - enabled: 1
+    path: Assets/Nivel6.unity
+    guid: cc2dae3c313cdc146bf39b3b88d9e2d4
   m_configObjects: {}
