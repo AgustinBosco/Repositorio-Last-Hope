@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/2DGamekit/Scenes/Level1.unity
     guid: 421fab1741c7d8f44a053ccbd865bfdf
   - enabled: 0
@@ -26,6 +26,27 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/2DGamekit/Scenes/Zone5.unity
     guid: 960b12f881940d84983273421bebc695
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/2DGamekit/Last Hope/Nivel1.unity
+    guid: ca20da49fe41e2045a98eb32ea3eafb6
+  - enabled: 1
+    path: Assets/2DGamekit/Last Hope/Nivel2.unity
+    guid: 099b71208374abd4487ec54a6472cb74
+  - enabled: 1
+    path: Assets/2DGamekit/Last Hope/Nivel3.unity
+    guid: e7cded66c2ca2fd43a7b84f13d644236
+  - enabled: 1
+    path: Assets/2DGamekit/Last Hope/Nivel4.unity
+    guid: c5f2aa5a8cede3c4c9c22e7e52023ee5
+  - enabled: 1
+    path: Assets/2DGamekit/Last Hope/Nivel5.unity
+    guid: a62beda2b0a2cd9428b9d9874ebba7c3
+  - enabled: 1
+    path: Assets/2DGamekit/Last Hope/Nivel6.unity
+    guid: cc2dae3c313cdc146bf39b3b88d9e2d4
   - enabled: 1
     path: Assets/2DGamekit/Scenes/UI/UIMenus.unity
     guid: 705f1f73151a73046842d4e4ec8f514d
@@ -35,22 +56,4 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: 
-    guid: 7daecd0dbe1f00548ac8b33ee6e234d0
-  - enabled: 1
-    path: 
-    guid: 0e222c0daed93914fb6f9348c8e104b8
-  - enabled: 1
-    path: Assets/2DGamekit/Last Hope/Nivel1.unity
-    guid: ca20da49fe41e2045a98eb32ea3eafb6
-  - enabled: 1
-    path: Assets/2DGamekit/Last Hope/Nivel5.unity
-    guid: a62beda2b0a2cd9428b9d9874ebba7c3
-  - enabled: 1
-    path: Assets/Nivel6.unity
-    guid: cc2dae3c313cdc146bf39b3b88d9e2d4
   m_configObjects: {}
