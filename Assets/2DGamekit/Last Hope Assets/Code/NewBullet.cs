@@ -11,11 +11,10 @@ public class NewBullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.name.Equals("Ellen"))
+        if ((collision.name.Equals("Ellen")) || (collision.name.Equals("InfoPost (2)")) || (collision.name.Equals("InfoPost (1)")) || (collision.name.Equals("InfoPost")))
         {
 
-        }
-        else
+        }else
         {
             EnemyHealth enemy = collision.GetComponent<EnemyHealth>();
             if (enemy != null)
