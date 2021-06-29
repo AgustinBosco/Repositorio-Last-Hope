@@ -56,4 +56,13 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/2DGamekit/Last Hope/Escena Final.unity
+    guid: 1bd8d62b3c55e4341b85709430019fb0
+  - enabled: 1
+    path: Assets/2DGamekit/Last Hope/Menu principal.unity
+    guid: bdbc1bd851957c14fabd9bc0b44e9ee6
+  - enabled: 1
+    path: Assets/2DGamekit/Last Hope/Creditos.unity
+    guid: 483821475a6ac3b49a491ba34afb96b0
   m_configObjects: {}
